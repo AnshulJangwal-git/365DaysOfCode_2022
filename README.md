@@ -1,6 +1,6 @@
 # 365DaysOfCode_2022
 
-                                #Day1
+                                                #Day1
 Topic - Graph 
 1. Number of Islands  -  https://leetcode.com/problems/number-of-islands/
 2. Number of Distinct Islands  -  https://www.lintcode.com/problem/860/
@@ -12,7 +12,7 @@ Topic - HashMap
 2. Find Itinerary From tickets  -  https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/hashmap-and-heaps/find-itinerary-from-tickets-official/ojquestion 
 
 
-                               #Day2
+                                                #Day2
 Topic - HashMap
 1. Check if An Array Pairs are Divisible by k  -  https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/
 2. 
