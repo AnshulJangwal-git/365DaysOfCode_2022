@@ -35,6 +35,12 @@ public class DijkstrasAlgorithm {
   
         int src = Integer.parseInt(br.readLine());
         // write your code here
+        
+        DijkstrasAlgorithm(graph, src) ;
+        
+     }
+
+     public static void DijkstrasAlgorithm(ArrayList<Edge> graph[], int src){
         PriorityQueue<Pair> pq = new PriorityQueue<>() ;
         pq.add(new Pair(src, src + "", 0)) ;
         
@@ -55,7 +61,6 @@ public class DijkstrasAlgorithm {
                 }
             }
         }
-        
      }
      
      static class Pair implements Comparable<Pair> {
