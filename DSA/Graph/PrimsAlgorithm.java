@@ -32,10 +32,14 @@ public class PrimsAlgorithm {
          graph[v1].add(new Edge(v1, v2, wt));
          graph[v2].add(new Edge(v2, v1, wt));
       }
+      primsAlgorithm(graph) ;
+   }
+
+   public static void primsAlgorithm(ArrayList<Edge> graph[]){
     PriorityQueue<Pair> pq = new PriorityQueue<>() ;
     pq.add(new Pair(0, -1, 0)) ;
 
-    boolean visited[] = new boolean[vtces] ;
+    boolean visited[] = new boolean[graph.length] ;
     while(pq.size() > 0){
         Pair rem = pq.remove() ;
         if(visited[rem.v] == true){
