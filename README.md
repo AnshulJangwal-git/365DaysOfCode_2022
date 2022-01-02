@@ -8,7 +8,9 @@ Topic - HashMap
 
 Topic - Graph
 1. Dijkstra Algorithm - https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
-2. Minimum Spanning Tree(Prim's Algorithm)   -  
+2. Minimum Spanning Tree(Prim's Algorithm)   -  https://nados.io/content/eb9863ac-63ac-4b94-881f-0aeb24df0985/0c54b191-7b99-4f2c-acb3-e7f2ec748b2a/ae41ae29-11ca-4ae4-8ec7-72a411fd59b6/4e5ab2ff-be89-49c1-a561-62e8c56cf5d9/02ab8fe3-cddd-43ad-b241-b8b1a2fcd52e/question/c251ec5e-94ae-40a2-bc75-bb3f12f8cfbd
+3. Minimum Cost to Connect all cities  -  https://www.geeksforgeeks.org/minimum-cost-connect-cities/
+4. Coloring a Border  -  https://leetcode.com/problems/coloring-a-border/
 
 
 
