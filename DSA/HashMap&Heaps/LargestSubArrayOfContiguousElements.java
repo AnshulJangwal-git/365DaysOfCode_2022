@@ -40,5 +40,4 @@ public class LargestSubArrayOfContiguousElements {
 		}
 		System.out.println(solution(arr));
 	}
-
 }
