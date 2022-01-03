@@ -4,6 +4,12 @@
 Topic - HashMap
 1. Contiguous Array  -  https://leetcode.com/problems/contiguous-array/
 2. Count Distinct Elements In Every Window Of Size K  -  https://nados.io/content/eb9863ac-63ac-4b94-881f-0aeb24df0985/0c54b191-7b99-4f2c-acb3-e7f2ec748b2a/7fdb0602-0ac9-4484-aff9-a898aed5cd28/d108313e-68c8-4fc6-bb02-6e9a9010ef9e/ec6515dc-6811-4c65-912f-0134b65df120/question/9e66c341-5b36-4ac7-8a92-d650fd523d1b
+3. Length of Largest SubArray with Contiguous Elements  -  https://nados.io/content/eb9863ac-63ac-4b94-881f-0aeb24df0985/0c54b191-7b99-4f2c-acb3-e7f2ec748b2a/7fdb0602-0ac9-4484-aff9-a898aed5cd28/d108313e-68c8-4fc6-bb02-6e9a9010ef9e/ec6515dc-6811-4c65-912f-0134b65df120/question/1b810ee2-aedd-4618-a510-a60bf818aba6
+
+Topic - Graph
+1. 01-Matrix  -  https://leetcode.com/problems/01-matrix/
+2. As Far From Land as Possible  -  https://leetcode.com/problems/as-far-from-land-as-possible/
+3. 
 
                                                #Day2
 Topic - HashMap
