@@ -6,8 +6,9 @@ Topic - graph
 3. 0-1 BFS  -  https://nados.io/content/eb9863ac-63ac-4b94-881f-0aeb24df0985/0c54b191-7b99-4f2c-acb3-e7f2ec748b2a/7fdb0602-0ac9-4484-aff9-a898aed5cd28/d108313e-68c8-4fc6-bb02-6e9a9010ef9e/7e07fddf-83bd-421e-848f-118f1f29541c/question/f47eca91-4162-445b-a8b2-0875114e92af
 
 Topic - HashMap
-1. 
-2. 
+1. Count substrings having all unique characters  -  https://nados.io/content/eb9863ac-63ac-4b94-881f-0aeb24df0985/0c54b191-7b99-4f2c-acb3-e7f2ec748b2a/7fdb0602-0ac9-4484-aff9-a898aed5cd28/d108313e-68c8-4fc6-bb02-6e9a9010ef9e/ec6515dc-6811-4c65-912f-0134b65df120/question/1623dcd3-8bbf-4662-964b-bfc522479908 
+2. Longest K unique characters substring  -  https://practice.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1#
+3. 
                                                #Day4
 Topic - graph
 1. shortest Bridge - https://leetcode.com/problems/shortest-bridge/
