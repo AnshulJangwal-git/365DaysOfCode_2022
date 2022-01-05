@@ -3,7 +3,11 @@
 Topic - graph
 1. sliding Puzzle  -  https://leetcode.com/problems/sliding-puzzle/
 2. minimum number of swaps required to sort an array - https://nados.io/content/eb9863ac-63ac-4b94-881f-0aeb24df0985/0c54b191-7b99-4f2c-acb3-e7f2ec748b2a/7fdb0602-0ac9-4484-aff9-a898aed5cd28/d108313e-68c8-4fc6-bb02-6e9a9010ef9e/7e07fddf-83bd-421e-848f-118f1f29541c/question/5fcd6bad-34c3-4389-81aa-fda4f88ad9ea
-3. 
+3. 0-1 BFS  -  https://nados.io/content/eb9863ac-63ac-4b94-881f-0aeb24df0985/0c54b191-7b99-4f2c-acb3-e7f2ec748b2a/7fdb0602-0ac9-4484-aff9-a898aed5cd28/d108313e-68c8-4fc6-bb02-6e9a9010ef9e/7e07fddf-83bd-421e-848f-118f1f29541c/question/f47eca91-4162-445b-a8b2-0875114e92af
+
+Topic - HashMap
+1. 
+2. 
                                                #Day4
 Topic - graph
 1. shortest Bridge - https://leetcode.com/problems/shortest-bridge/
