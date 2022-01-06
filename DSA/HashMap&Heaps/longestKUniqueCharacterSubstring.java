@@ -5,23 +5,23 @@
 import java.io.*;
 import java.util.*;
 
-class longestKUniqueCharacterSubstring {
-    public static void main(String args[]) {
-        Scanner sc = new Scanner(System.in);
-        int t = sc.nextInt();
-        while (t-- > 0) {
-            String s = sc.next();
-            int k = sc.nextInt();
-            Solution obj = new Solution();
-            System.out.println(obj.longestkSubstr(s, k));
-        }
-    }
-}// } Driver Code Ends
+// class longestKUniqueCharacterSubstring {
+//     public static void main(String args[]) {
+//         Scanner sc = new Scanner(System.in);
+//         int t = sc.nextInt();
+//         while (t-- > 0) {
+//             String s = sc.next();
+//             int k = sc.nextInt();
+//             Solution obj = new Solution();
+//             System.out.println(obj.longestkSubstr(s, k));
+//         }
+//     }
+// }// } Driver Code Ends
 
 
 // User function Template for Java
 
-class Solution {
+class longestKUniqueCharacterSubstring {
     
     public static int longestkSubstr(String str, int k){
 		// write your code here

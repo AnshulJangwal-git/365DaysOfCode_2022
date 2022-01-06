@@ -2,17 +2,32 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args){
-        String str = "aabcbcdbca" ;
-        String ans = "" ;
-        HashSet<Character> set = new HashSet<>() ;
+        Scanner sc = new Scanner(System.in) ;
+        int n = sc.nextInt() ;
+        int[] arr = new int[n] ;
+        for(int i = 0; i < arr.length; i++){
+            arr[i] = sc.nextInt() ;
+        }
 
-        for(int i = 0; i < str.length(); i++){
-            char ch = str.charAt(i) ;
-            if(set.contains(ch) == false){
-                set.add(ch) ;
+
+        int ans[] = pickEven(arr, n) ;
+    }
+
+    public static int[] pickEven(int[] arr, int n){
+        int ans[] = new int[n] ;
+        int idx = 0 ;
+        
+        for(int i = 0; i < arr.length; i++){
+            if(arr[i] % 2 == 0){
+                ans[idx] = arr[i] ;
+                idx ++ ;
             }
         }
 
-        System.out.println(set.size()) ;
+        if(ans.length != 0){
+            return ans ;
+        }
+
+        return new int[0] ;
     }
 }
