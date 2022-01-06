@@ -1,4 +1,12 @@
 # 365DaysOfCode_2022
+                                               #Day6
+Topic - Hashmap
+1. Count Substrings with K distinct Characters - https://pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/hashmap-and-heaps/count-of-substrings-with-exactly-k-unique-characters-official/ojquestion
+2. Equivalent SubArrays count  -  https://pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/hashmap-and-heaps/equivalent-subarrays-official/ojquestion
+3. maximum consecutive ones_(At most 1 zero flipped)  -  https://www.lintcode.com/problem/883/
+4. maximum consecutive ones_(At most k zero flipped)  -  https://leetcode.com/problems/max-consecutive-ones-iii/
+5. maximum consecutives ones(No zero flipped)  -    https://leetcode.com/problems/max-consecutive-ones/
+
                                                #Day5
 Topic - graph
 1. sliding Puzzle  -  https://leetcode.com/problems/sliding-puzzle/
