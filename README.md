@@ -1,4 +1,11 @@
 # 365DaysOfCode_2022
+                                               #Day7
+Topic - graph
+1. Kahn's Algorithm  -  https://nados.io/content/eb9863ac-63ac-4b94-881f-0aeb24df0985/0c54b191-7b99-4f2c-acb3-e7f2ec748b2a/7fdb0602-0ac9-4484-aff9-a898aed5cd28/d108313e-68c8-4fc6-bb02-6e9a9010ef9e/7e07fddf-83bd-421e-848f-118f1f29541c/question/84faff6c-d8e4-4491-ac85-0ad587da2ee3
+2. course Schedule  -  https://leetcode.com/problems/course-schedule/
+3. course Schedule2  -  https://leetcode.com/problems/course-schedule-ii/
+4. Alien Dictionary  -  https://www.lintcode.com/problem/892/description    (Code Not working)..
+5. Mother Vertex  -   https://practice.geeksforgeeks.org/problems/mother-vertex/1/
                                                #Day6
 Topic - Hashmap
 1. Count Substrings with K distinct Characters - https://pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/hashmap-and-heaps/count-of-substrings-with-exactly-k-unique-characters-official/ojquestion
