@@ -50,6 +50,9 @@ public class DSU {
             }else{
                 par[lx] = ly ;
                 rank[ly] ++ ;
+                //or 
+                //par[ly] = lx ;
+                //rank[lx] ++ ;
             }
         }
 
