@@ -6,6 +6,7 @@ Topic - graph
 3. course Schedule2  -  https://leetcode.com/problems/course-schedule-ii/
 4. Alien Dictionary  -  https://www.lintcode.com/problem/892/description    (Code Not working)...
 5. Mother Vertex  -   https://practice.geeksforgeeks.org/problems/mother-vertex/1/
+
                                                #Day6
 Topic - Hashmap
 1. Count Substrings with K distinct Characters - https://pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/hashmap-and-heaps/count-of-substrings-with-exactly-k-unique-characters-official/ojquestion
