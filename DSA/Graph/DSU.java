@@ -49,7 +49,7 @@ public class DSU {
 
             }else{
                 par[lx] = ly ;
-                rank[lx] ++ ;
+                rank[ly] ++ ;
             }
         }
 
