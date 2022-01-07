@@ -1,5 +1,6 @@
 public class DSU {
     static int[] par ;
+    static int[] rank ;
     public static void main(String[] args){
         int[][] relations = {
             {1, 2}, 
@@ -11,6 +12,8 @@ public class DSU {
 
         int n = 6 ;
         par = new int[n + 1] ;
+        rank = new int[n + 1] ;
+
         for(int i = 1; i <= n; i++){
             par[i] = i ;
         }
@@ -36,14 +39,29 @@ public class DSU {
         int lx = find(x) ;
         int ly = find(y) ;
 
-        par[lx] = ly ;
+        //union by rank(depth measuring)..
+        if(lx != ly){
+            if(rank[lx] > rank[ly]){
+                par[ly] = lx ;
+
+            }else if(rank[ly] > rank[lx]){
+                par[lx] = ly ;
+
+            }else{
+                par[lx] = ly ;
+                rank[lx] ++ ;
+            }
+        }
+
     }
 
     static int find(int x){
         if(par[x] == x){
             return x ;
         }else{
-            return find(par[x]) ;
+            int temp = find(par[x]) ;
+            par[x] = temp ;  //path compression..
+            return temp ;
         }
 
     }
