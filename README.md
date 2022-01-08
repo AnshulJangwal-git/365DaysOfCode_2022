@@ -1,4 +1,14 @@
 # 365DaysOfCode_2022
+                                               #Day8
+Topic - Graph
+1. Disjoint set Union(DSU)  -  https://github.com/AnshulJangwal-git/365DaysOfCode_2022/blob/master/DSA/Graph/DSU.java
+2. Number of Islands2  -  https://www.lintcode.com/problem/434/
+3. Satisfiability of Equality -  https://leetcode.com/problems/satisfiability-of-equality-equations/
+
+Topic - Hashmap
+1. Longest Substring with Atmost 'k' unique Characters  -  https://www.lintcode.com/problem/longest-substring-with-at-most-k-distinct-characters/description
+2. count of substrings of Atmost K unique characters  -  https://nados.io/question/count-of-substrings-having-at-most-k-unique-characters
+
                                                #Day7
 Topic - graph
 1. Kahn's Algorithm  -  https://nados.io/content/eb9863ac-63ac-4b94-881f-0aeb24df0985/0c54b191-7b99-4f2c-acb3-e7f2ec748b2a/7fdb0602-0ac9-4484-aff9-a898aed5cd28/d108313e-68c8-4fc6-bb02-6e9a9010ef9e/7e07fddf-83bd-421e-848f-118f1f29541c/question/84faff6c-d8e4-4491-ac85-0ad587da2ee3
