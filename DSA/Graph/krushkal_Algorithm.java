@@ -43,30 +43,31 @@ public class krushkal_Algorithm {
 
   public static int minCostToSupplyWater(int n, int[][] edges) {
     
-    Pair[] arr = new Pair[edges.length] ;
-    for(int i = 0; i < edges.length; i++){
-        arr[i] = new Pair(edges[i][0], edges[i][1], edges[i][2]) ;
-    }
-    
-    Arrays.sort(arr) ;
-    
     parent = new int[n] ;
     rank = new int[n] ;
-    
+
     for(int i = 0; i < parent.length; i++){
         parent[i] = i ;
         rank[i] = 1 ;
     }
     
+    ArrayList<Pair> list = new ArrayList<>() ;
+    for(int i = 0; i < edges.length; i++){
+        list.add(new Pair(edges[i][0], edges[i][1], edges[i][2])) ;
+    }
+
+    Collections.sort(list) ;
     int ans = 0 ;
-    for(int i = 0; i < arr.length; i++){
-        boolean flag = union(arr[i].u, arr[i].v) ;
-        
+
+    for(int i = 0; i < list.size(); i++){
+        boolean flag = union(list.get(i).u, list.get(i).v) ;
         if(flag == true){
-            ans += arr[i].wt ;
+            ans += list.get(i).wt ;
         }
     }
+
     return ans ;
+
   }
   
   public static boolean union(int x, int y){
