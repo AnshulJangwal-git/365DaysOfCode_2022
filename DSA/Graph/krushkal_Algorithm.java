@@ -55,7 +55,7 @@ public class krushkal_Algorithm {
     for(int i = 0; i < edges.length; i++){
         list.add(new Pair(edges[i][0], edges[i][1], edges[i][2])) ;
     }
-
+    //step1 - Sorting all the edges on the basis of their non-decreasing weights..
     Collections.sort(list) ;
     int ans = 0 ;
 
