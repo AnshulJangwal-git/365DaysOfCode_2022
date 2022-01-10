@@ -1,4 +1,14 @@
 # 365DaysOfCode_2022
+
+                                               #Day10
+1. krushkal Algorithm - https://nados.io/question/kruskal-algorithm
+2. Sentence Similarity2 - https://www.lintcode.com/problem/sentence-similarity/description
+3. Strongly Connected Components (Kosaraju's Algo)  -  https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1
+
+Topic - HashMap
+1. Isomorphic Strings -  https://leetcode.com/problems/isomorphic-strings/
+2. Word Pattern  -  https://leetcode.com/problems/word-pattern/
+
                                                #Day9
 Topic - HashMap
 1. check if two Strings are k-Anagrams or not - https://practice.geeksforgeeks.org/problems/check-if-two-strings-are-k-anagrams-or-not/1#
