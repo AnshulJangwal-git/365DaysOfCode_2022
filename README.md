@@ -1,4 +1,15 @@
 # 365DaysOfCode_2022
+                                               #Day11
+Topic - HashMap
+1. Count of Subarrays having sum equals to 'k' - https://practice.geeksforgeeks.org/problems/subarrays-with-sum-k/1/#
+2. Longest Subarray with sum divisible by 'k' - https://practice.geeksforgeeks.org/problems/longest-subarray-with-sum-divisible-by-k1259/1#
+3. count of subarrays whose sum is divisible by 'k' - https://leetcode.com/problems/subarray-sums-divisible-by-k/
+4. Longest subarray with equal number of zeroes and ones(contiguous array) - https://leetcode.com/problems/contiguous-array/ 
+5. count of subarrays with equal 0s and 1s - https://practice.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620/1#
+6. Longest subarray with equal 0s, 1s and 2s - https://nados.io/question/longest-subarray-with-equal-number-of-0s-1s-and-2s
+7. count of subarrays with Equal number of 0s, 1s, and 2s - https://nados.io/question/count-of-subarrays-with-equal-number-of-0s-1s-and-2s
+8. Pairs with Equal sum - https://nados.io/question/pairs-with-equal-sum
+
 
                                                #Day10
 1. krushkal Algorithm - https://nados.io/question/kruskal-algorithm
