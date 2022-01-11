@@ -11,6 +11,7 @@ Topic - HashMap
 8. Pairs with Equal sum - https://nados.io/question/pairs-with-equal-sum
 
                                                #Day10
+Topic - Graph
 1. krushkal Algorithm - https://nados.io/question/kruskal-algorithm
 2. Sentence Similarity2 - https://www.lintcode.com/problem/sentence-similarity/description
 3. Strongly Connected Components (Kosaraju's Algo)  -  https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1
