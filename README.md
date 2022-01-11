@@ -10,7 +10,6 @@ Topic - HashMap
 7. count of subarrays with Equal number of 0s, 1s, and 2s - https://nados.io/question/count-of-subarrays-with-equal-number-of-0s-1s-and-2s
 8. Pairs with Equal sum - https://nados.io/question/pairs-with-equal-sum
 
-
                                                #Day10
 1. krushkal Algorithm - https://nados.io/question/kruskal-algorithm
 2. Sentence Similarity2 - https://www.lintcode.com/problem/sentence-similarity/description
