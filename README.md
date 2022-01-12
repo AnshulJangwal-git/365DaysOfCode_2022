@@ -1,4 +1,11 @@
 # 365DaysOfCode_2022
+                                               #Day12
+Topic - Graph
+1. Articulation Point  -  https://nados.io/question/articulation-point
+2. Critical connections in a network  -  https://leetcode.com/problems/critical-connections-in-a-network/
+3. Remove Max Number of Edges to Keep Graph Fully Traversable - https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/
+
+
                                                #Day11
 Topic - HashMap
 1. Count of Subarrays having sum equals to 'k' - https://practice.geeksforgeeks.org/problems/subarrays-with-sum-k/1/#
