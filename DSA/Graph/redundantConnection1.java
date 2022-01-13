@@ -1,4 +1,4 @@
-
+//Ques Link - https://leetcode.com/problems/redundant-connection/
 import java.util.* ;
 
 class redundantConnection1 {
