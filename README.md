@@ -1,10 +1,16 @@
 # 365DaysOfCode_2022
+                                               #Day13
+Topic - Graph
+1. Bellman-Ford Algorithm - https://nados.io/question/bellman-ford
+2. Negative weight cycle - https://practice.geeksforgeeks.org/problems/negative-weight-cycle3504/1
+3. Floyd Warshall Algo - https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1/
+4. Redundant connection1 - https://leetcode.com/problems/redundant-connection/
+
                                                #Day12
 Topic - Graph
 1. Articulation Point  -  https://nados.io/question/articulation-point
 2. Critical connections in a network  -  https://leetcode.com/problems/critical-connections-in-a-network/
 3. Remove Max Number of Edges to Keep Graph Fully Traversable - https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/
-
 
                                                #Day11
 Topic - HashMap
