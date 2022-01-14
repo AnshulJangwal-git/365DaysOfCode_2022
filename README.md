@@ -1,4 +1,11 @@
 # 365DaysOfCode_2022
+                                               #Day14
+1. Redundant connection2 - https://leetcode.com/problems/redundant-connection-ii/
+2. Eulerian Path and Circuit - https://practice.geeksforgeeks.org/problems/euler-circuit-and-path/1/
+3. optimize water distribution - https://nados.io/question/optimize-water-distribution
+4.  Swim in rising water - https://leetcode.com/problems/swim-in-rising-water/
+5. Minimum cost to connect all cities - https://nados.io/question/minimum-cost-to-connect-all-cities 
+
                                                #Day13
 Topic - Graph
 1. Bellman-Ford Algorithm - https://nados.io/question/bellman-ford
