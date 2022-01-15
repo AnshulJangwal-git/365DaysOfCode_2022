@@ -1,5 +1,14 @@
 # 365DaysOfCode_2022
+                                               #Day15
+Topic - HashMap
+1. Fraction to Recurring Decimal - https://leetcode.com/problems/fraction-to-recurring-decimal/
+2. Rabbits in the Forest - https://leetcode.com/problems/rabbits-in-forest/
+3. Array of Doubled Pairs - https://leetcode.com/problems/array-of-doubled-pairs/
+4. Check Arithmetic Sequence - https://practice.geeksforgeeks.org/problems/check-arithmetic-progression1842/1/#
+5. Smallest Subarray will All Occurrences of the most Frequent Element - https://nados.io/question/smallest-subarray-with-all-occurrences-of-the-most-frequent-element
+
                                                #Day14
+Topic - Graph
 1. Redundant connection2 - https://leetcode.com/problems/redundant-connection-ii/
 2. Eulerian Path and Circuit - https://practice.geeksforgeeks.org/problems/euler-circuit-and-path/1/
 3. optimize water distribution - https://nados.io/question/optimize-water-distribution
