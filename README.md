@@ -1,4 +1,13 @@
 # 365DaysOfCode_2022
+                                               #Day16
+Topic - HashMap
+1. Task Completion - https://nados.io/question/task-completion
+2. Pairs with given sum in two sorted matrices - https://nados.io/question/pairs-with-given-sum-in-two-sorted-matrices
+3. 4sum 1st - https://leetcode.com/problems/4sum/
+4. 4sum 2nd - https://leetcode.com/problems/4sum-ii/
+5. Powerful Numbers -   
+
+
                                                #Day15
 Topic - HashMap
 1. Fraction to Recurring Decimal - https://leetcode.com/problems/fraction-to-recurring-decimal/
