@@ -5,7 +5,7 @@ Topic - HashMap
 2. Pairs with given sum in two sorted matrices - https://nados.io/question/pairs-with-given-sum-in-two-sorted-matrices
 3. 4sum 1st - https://leetcode.com/problems/4sum/
 4. 4sum 2nd - https://leetcode.com/problems/4sum-ii/
-5. Powerful Numbers -   
+5. Powerful Integers - https://leetcode.com/problems/powerful-integers/  
 
 
                                                #Day15
