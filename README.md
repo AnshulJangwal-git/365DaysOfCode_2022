@@ -1,4 +1,15 @@
 # 365DaysOfCode_2022
+                                               #Day17
+Topic - Graph
+1. Regions cut by slashes - https://leetcode.com/problems/regions-cut-by-slashes/
+2. reconstruct Itinerary - https://leetcode.com/problems/reconstruct-itinerary/
+
+Topic - HashMap
+1. subdomain Visit Count - https://leetcode.com/problems/subdomain-visit-count/
+2. First non-repeating character - https://www.geeksforgeeks.org/given-a-string-find-its-first-non-repeating-character/
+3. Lru Cache - https://leetcode.com/problems/lru-cache/
+
+
                                                #Day16
 Topic - HashMap
 1. Task Completion - https://nados.io/question/task-completion
