@@ -63,7 +63,7 @@ class LRUCache {
     public void put(int key, int value) {
         Node node = cache.get(key) ;
         
-        if(node == null){
+        if(node == null){ //does not exist..
             Node newNode = new Node() ;
             newNode.key = key ;
             newNode.value = value ;
