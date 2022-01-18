@@ -3,7 +3,10 @@
 Topic - HashMap
 1. Required Rooms  -  https://practice.geeksforgeeks.org/problems/required-rooms3939/1/#
 2. X of a kind in a deck of Cards - https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/ 
-
+3. Brick Wall - https://leetcode.com/problems/brick-wall/
+4. Maximum Frequency Stack  -  https://leetcode.com/problems/maximum-frequency-stack/
+5. Encode and Decode tiny url - https://leetcode.com/problems/encode-and-decode-tinyurl/
+6. The Skyline Problem - https://leetcode.com/problems/the-skyline-problem/
 
 
                                                #Day17
