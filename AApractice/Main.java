@@ -7,6 +7,8 @@ public class Main {
         set.add(5) ;
         set.add(2) ;
         set.add(1) ;
+
+        System.out.println(set) ;
     }
 
 }
