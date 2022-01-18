@@ -1,4 +1,4 @@
-
+//Leetcode 914 - https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/
 import java.util.* ;
 
 class XofAKindInADeck {
