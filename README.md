@@ -1,4 +1,11 @@
 # 365DaysOfCode_2022
+                                               #Day18
+Topic - HashMap
+1. Required Rooms  -  https://practice.geeksforgeeks.org/problems/required-rooms3939/1/#
+2. X of a kind in a deck of Cards - https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/ 
+
+
+
                                                #Day17
 Topic - Graph
 1. Regions cut by slashes - https://leetcode.com/problems/regions-cut-by-slashes/
