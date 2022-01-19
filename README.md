@@ -1,4 +1,8 @@
 # 365DaysOfCode_2022
+                                               #Day19
+1. Insert Delete GetRandom O(1) -  https://leetcode.com/problems/insert-delete-getrandom-o1/
+2. Insert Delete GetRandom O(1), Duplicates Allowed - https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/
+
                                                #Day18
 Topic - HashMap
 1. Required Rooms  -  https://practice.geeksforgeeks.org/problems/required-rooms3939/1/#
