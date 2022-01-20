@@ -1,0 +1,6 @@
+Javascript is a text-based programming language used both on client side and server side that allows to make the webpages
+more interactives.
+Javascript improve the user experience and convert the static webpage into the interactives ones..
+
+
+
