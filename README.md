@@ -1,5 +1,11 @@
 # 365DaysOfCode_2022
+                                               #Day20
+Topic - HashMap<>() ;
+1. Random pick with blacklist  -  https://leetcode.com/problems/random-pick-with-blacklist/
+2. Avoid flood in the city -  https://leetcode.com/problems/avoid-flood-in-the-city/
+
                                                #Day19
+Topic - HashMap
 1. Insert Delete GetRandom O(1) -  https://leetcode.com/problems/insert-delete-getrandom-o1/
 2. Insert Delete GetRandom O(1), Duplicates Allowed - https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/
 
