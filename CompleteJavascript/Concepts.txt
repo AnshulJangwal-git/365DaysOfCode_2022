@@ -2,5 +2,14 @@ Javascript is a text-based programming language used both on client side and ser
 more interactives.
 Javascript improve the user experience and convert the static webpage into the interactives ones..
 
+#values and variables
+-> variables names are case sensitive..
+-> cant start with numbers and cant have space in between
+-> variables cant be js reserved words..
+
+#datatypes 
+
+
+
 
 
